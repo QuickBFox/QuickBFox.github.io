@@ -7,4 +7,4 @@ title: Ankor
 
 [Приключения](/ankor/adventures.md)
 
-[География](/ankor/geography.md) 
+[География](/ankor/geography/index.md)
