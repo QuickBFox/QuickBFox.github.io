@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://QuickBFox.github.io
+title: QuickBFox
+tagline: My worlds
+description: Site to keep and organize my RPG adventures
+paginate: 5
