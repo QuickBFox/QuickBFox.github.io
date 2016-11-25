@@ -1,6 +1,7 @@
 ---
 published: true
-layout: post
 title: Ankor wiki
+layout: post
 ---
-<a href="github.com/quickbfox/ankor/wiki">link</a>
+<a href="https://github.com/QuickBFox/ankor/wiki">link1</a>
+<a href="https://github.com/QuickBFox/QuickBFox.github.io/wiki">link2</a>
